@@ -1,0 +1,46 @@
+# PHP Day 0
+
+host: ricksu / rick.su.35
+
+-----
+
+**Time**: PM 7 every Thuesday at the same room
+
+Sharing the things what you know?
+
+### Ruby's way
+
+- Introducing their selves after the end of the meetup. 
+- Sharing the online projects' experiences.
+
+### Other ways
+
+- Establish teams to work on some side projects.
+- Collecting the topics from the problems the members filed, we can invite some related experts for those topics.
+- Pair programming, coding in the activities. Some real-world issues or tranings.
+- How to do opensource projects. Travic. 
+- Sharing the used tools.
+- Invite some companies to co-work their requirements.
+- Mini hackthon, workshop?
+
+### Next Day
+
+- 數位行銷 (Alex)
+
+-----
+
+Render templates
+Tools know-how
+Design patterns
+
+-----
+
+### In my mind ..
+
+- Performance
+- Security
+
+-----
+
+緯捷
+
